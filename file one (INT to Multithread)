@@ -27,3 +27,5 @@ public class AtomicIntegerDemo {
         System.out.println(number);
     }
 }
+
+// first set of commite after creation commite.
